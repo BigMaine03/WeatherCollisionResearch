@@ -1,0 +1,7 @@
+condition,hours,crashes,crashes_per_hour,injuries_per_crash,deaths_per_1000_crashes
+all hours,8784,192036,21.862,0.26,1.047
+rain,1204,27829,23.114,0.265,0.862
+snow,175,3160,18.057,0.213,0.633
+freezing,1002,17914,17.878,0.221,1.061
+windy,879,21163,24.076,0.237,1.323
+clear,7551,163742,21.685,0.259,1.081

@@ -1,0 +1,8 @@
+condition,days,crashes_per_day,injured_per_day,killed_per_day,injuries_per_crash
+all days,1461,618.68,167.22,0.67,0.27
+rain,503,622.34,171.74,0.62,0.28
+snow,46,602.2,147.3,0.5,0.24
+freezing,377,586.44,144.9,0.6,0.25
+hot,111,665.45,189.68,0.77,0.29
+windy,147,618.54,161.35,0.64,0.26
+clear,930,617.19,165.45,0.71,0.27
